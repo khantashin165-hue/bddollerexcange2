@@ -1,0 +1,58 @@
+body{
+    background-image: url(./image/taka.jpg);
+}
+.page-header{
+    color: rgb(255, 42, 42);
+    background-color:rgb(179, 177, 173);
+    background: rgba(85, 90, 85, 0.3);   
+    height: 100%;
+    width: 70%;
+    margin:  0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.main-part{
+    border: 2px solid gray;
+    height:300px;
+    width: 70%;
+    margin: 0 auto;
+    background: rgba(7, 7, 7, 0.692); 
+   
+}
+.convert{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    padding-left: 10%;
+}
+.taka{
+    height:40px;
+    width: 200px;
+    border: 2px solid;
+    border-color: yellowgreen;
+    background-color:white;
+
+}
+.taka-part{
+    margin-left: 200px;
+}
+#input-doller{
+    height:40px;
+    width: 200px;
+    border: 2px solid;
+    border-color:yellowgreen;
+   
+}
+.button{
+   margin-left: 150px;
+   margin-top: 50px; 
+}
+.clear{
+    margin-left: 300px;
+}
+.title{
+    color: rgb(107, 107, 107);
+}
+.text-footer{
+    text-align: center;
+}
